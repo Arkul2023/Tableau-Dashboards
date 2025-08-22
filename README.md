@@ -17,3 +17,8 @@
 1) The Buisness Summary Dashboard provides the Sales of "Total Amount of Chocolates", "Shipped Chocolate Boxes", "Total Shipment Count" in each country.
 2) The Dashboard shows the Top 10 Sales Person who showed good sales performance in each country. They are ranked by the highest amount of Chocolates sold.
 3) By selecting a Country in the Dashboard you can view all the deatils regarding Chocolate Sales.
+
+### Key Findings
+
+Top Countries: Certain regions (like India and UK) contribute significantly to revenue.
+Salesperson Analysis: A few salespersons consistently outperform others in both revenue and shipment volumes.
