@@ -20,5 +20,5 @@
 
 ### Key Findings
 
-Top Countries: Certain regions (like India and UK) contribute significantly to revenue.
-Salesperson Analysis: A few salespersons consistently outperform others in both revenue and shipment volumes.
+1) Top Countries: Certain regions (like India and UK) contribute significantly to revenue.
+2) Salesperson Analysis: A few salespersons consistently outperform others in both revenue and shipment volumes.
